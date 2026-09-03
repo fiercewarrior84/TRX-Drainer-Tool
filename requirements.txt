@@ -1,0 +1,6 @@
+# TRX Drainer Tool — Python 3.10+
+rich>=13.0.0
+cryptography
+psutil
+requests
+tronpy
